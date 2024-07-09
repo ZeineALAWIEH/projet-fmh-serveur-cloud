@@ -1,0 +1,11 @@
+
+POST https://api.escuelajs.co/api/v1/users/ HTTP/1.1
+Content-Type: application/json
+
+
+{
+  "name": "Nicolas",
+  "email": "nico@gmail.com",
+  "password": "1234",
+  "avatar": "https://picsum.photos/800"
+}

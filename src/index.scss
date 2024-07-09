@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* scss file import for react-image-gallery */
+//@import "~react-image-gallery/styles/scss/image-gallery.scss";
+
+.section-split__bande {
+    height: 2rem;
+    width: 100%;
+    background-color: #ddd;
+}
+
+.circle {
+    height: 2.5rem;
+    width: 2.5rem;
+    background-color: #4e4e4e;
+    border-radius: 50%;
+}
